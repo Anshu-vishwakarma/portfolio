@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b1c060d3.chunk.css",
+    "main.js": "/portfolio/static/js/main.3d4e607f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3d4e607f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b63cc282.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b63cc282.js.map",
+    "static/css/2.818011ed.chunk.css": "/portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.883de44e.chunk.js": "/portfolio/static/js/2.883de44e.chunk.js",
+    "static/js/2.883de44e.chunk.js.map": "/portfolio/static/js/2.883de44e.chunk.js.map",
+    "static/js/3.f790162a.chunk.js": "/portfolio/static/js/3.f790162a.chunk.js",
+    "static/js/3.f790162a.chunk.js.map": "/portfolio/static/js/3.f790162a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b1c060d3.chunk.css.map": "/portfolio/static/css/main.b1c060d3.chunk.css.map",
+    "static/js/2.883de44e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.883de44e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/bg-masthead.87655359.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b63cc282.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.883de44e.chunk.js",
+    "static/css/main.b1c060d3.chunk.css",
+    "static/js/main.3d4e607f.chunk.js"
+  ]
+}
